@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 
 
 ![](https://leetcard.jacoblin.cool/dheeraj_alim?ext=heatmap&border_radius=5&width=600&height=300&hide=ranking)
+
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=dheeraj_alim&theme=github-dark" alt="LeetCode Badges"/>
 <br>
 
 <h3>Patterns & Publication</h3>
@@ -61,4 +63,5 @@ Irish Sign Language Recognition using Video Feed and Convolution Neural Networks
     </td>
   </tr>
 </table>
+
 
